@@ -38,7 +38,7 @@ const EncryptionDemo = () => {
       const sanitizedDecryptedText = validator.escape(decrypted);
 
       setDecryptedText(sanitizedDecryptedText); // Display the sanitized output
-    } catch (error) {
+    } catch  {
       alert("Decryption failed. Please check your input.");
     }
   };
