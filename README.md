@@ -21,9 +21,9 @@ I used protection methods like Validator.js to protect against common web-based 
 
 # Demo
 
-<img src=".public/img/encrypt.png" alt="Encrypt" width="500"/>
+<img src="public/img/encrypt.png" alt="Encrypt" width="500"/>
 
-<img src=".public/img/decrypt.png" alt="Decrypt" width="500"/>
+<img src="public/img/decrypt.png" alt="Decrypt" width="500"/>
 
 
 
